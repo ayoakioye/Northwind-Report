@@ -30,5 +30,7 @@ Exploring the Customer Relation Data, Employees Anne Dodsworth and Nancy Dovolio
 Yes Exploring the data_ set i visualised the top 5 products by orders, Raclette courdavault (54 orders), Camembert Pierrot (51 orders), To always have them in stock , Northwind Traders should restock these products weekly as they are know to sell fast.
 
 3)Do different types of customers buy different things, and how can Northwind Traders use this information to offer products that people want?
+Exploring the Product Performance Report, Different Customers buy Different things, Northwind should use the product that generate the highest Net revenue and highest orders.
+
 
 
